@@ -22,4 +22,15 @@
     padding-bottom: 30px;
     font-family: fantasy; color: rgba(126, 3, 3, 0.753);
 }
-
+h1{
+    margin-bottom: 30px;
+}
+p{
+    margin-top: 15px;
+}
+.bg-footer{
+    background-color:black;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: fantasy; color: whitesmoke;
+}
